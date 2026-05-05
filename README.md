@@ -1,22 +1,21 @@
-# 👋 Hi, I'm Esha Rahim
+# Hi, I'm Esha Rahim 👋
 
-💻 Python Learner
-📊 Learning Data Analysis (NumPy & Pandas)
-🤖 Aspiring Machine Learning Engineer
+I am a **Software Engineering Student** at the **University of Agriculture, Faisalabad (UAF)**, with a dedicated focus on **Machine Learning** and **Data Science**. My goal is to build intelligent, data-driven solutions that solve real-world problems.
 
----
+### 🏛 Academic Background
+*   **University:** University of Agriculture, Faisalabad (2024 – 2028)
+*   **Degree:** BS Software Engineering
+*   **Career Goal:** Machine Learning Engineer
 
-## 🚀 About Me
+### 🛠 Technical Stack
+*   **Languages:** Python, C++
+*   **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+*   **Tools:** Git, GitHub, VS Code
 
-I am learning programming and data science by building small real-world projects.
-
-I enjoy solving problems and improving my coding skills step by step.
-
----
-
-## 🎯 Goal
-
-To become a Machine Learning Engineer and work on AI-based solutions.
+### 📜 Professional Certifications
+*   **IBM:** Python for Data Science, AI & Development
+*   **University of Michigan:** Python Basics
 
 ---
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/esha-rahim-7673163ab/)
 
