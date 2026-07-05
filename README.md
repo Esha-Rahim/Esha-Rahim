@@ -4,9 +4,11 @@ I am a Software Engineering Student at the University of Agriculture, Faisalabad
 
 ### 🛠️ Technical Stack
 
-*   **Languages:** Python, C++, SQL ,MySQL
-*   **Data Analysis & Vis:** Pandas, NumPy, Matplotlib, Seaborn, EDA
-*   **Databases & Tools:** MySQL, Jupyter Notebook, Git & GitHub, VS Code, Excel
+*   **Languages & Scripting:** Python 3.13, Advanced SQL (Joins, CTEs, Window Functions, Subqueries), C++
+* **Data Processing & Analytics:** Pandas, NumPy, Exploratory Data Analysis (EDA)
+* **Visualization:** Matplotlib, Seaborn
+* **Databases & Reporting:** MySQL Workbench, Microsoft Excel (OpenPyXL Automation)
+* **Developer Tools:** Git, GitHub, VS Code, Jupyter Notebooks
 
 ### 📊 Featured Data Projects
 
