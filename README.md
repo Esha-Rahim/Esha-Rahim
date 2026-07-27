@@ -1,22 +1,52 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>Building out my data analytics portfolio — recently shipped 5 end-to-end projects (Olist e-commerce pipeline, Pakistan E-Commerce RFM & Churn Engine, Financial Time Series Analysis, Supply Chain Analytics) — while applying to entry-level Data Analyst roles.<br><br>👯 I'm looking to collaborate on<br>SQL/Python data analysis projects, especially anything involving customer segmentation, churn prediction, or time series analysis.<br><br>💬 Ask me about<br>SQL (CTEs, window functions, joins), Python for data analysis (Pandas, NumPy), EDA, RFM segmentation, or relational database design.<br><br>🌱 I'm currently learning<br>Machine learning fundamentals (scikit-learn) as I move from data analytics toward ML engineering — building on Math for ML & Data Science (Coursera/DeepLearning.AI).<br><br>🤝 I'm looking for help with<br>Breaking into my first Data Analyst role/internship — happy to hear from anyone with leads, referrals, or feedback on my portfolio.<br><br>⚡ Fun fact<br>I taught myself SQL, Python, and database design well enough to ship 5 full data projects covering 400,000+ records — all before finishing my software engineering degree.<br><br>A few notes on filling this out:<br><br>Keep "currently working on" and "currently learning" genuinely current — swap them out as you move from portfolio-building to actually landing interviews/roles, so it doesn't go stale.<br>"Looking for help with" is a good spot to be specific and honest (e.g., naming the internship search) — recruiters browsing GitHub profiles respond well to directness, and it fits how you like to communicate.<br>The fun fact works better if it's true and yours — feel free to swap mine for something more personal if you've got one (a specific "aha" moment, an unusual path into coding, etc.).
+# Hi, I'm Esha 👋
 
+Software Engineering student building a data analytics portfolio on my way toward ML engineering. I taught myself SQL, Python, and database design well enough to ship 5 end-to-end projects covering 400,000+ records — before finishing my degree.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/esha-rahim-7673163ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esharahim30@gmail.com) 
+### Currently working on
+Applying to entry-level Data Analyst roles while expanding my portfolio — recent projects include a Brazilian e-commerce data pipeline, a Pakistan e-commerce RFM & churn segmentation engine, and a financial time series analysis across AAPL, NVDA, BTC-USD, GLD, and SPY.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Esha-Rahim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Esha-Rahim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Esha-Rahim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Currently learning
+Machine learning fundamentals (scikit-learn) and the math behind it (linear algebra, calculus, probability & statistics), moving from data analytics toward ML engineering.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Esha-Rahim&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Looking for
+Leads, referrals, or feedback on my portfolio for my first Data Analyst role or internship. Also open to collaborating on SQL/Python projects involving segmentation, churn prediction, or time series analysis.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Esha-Rahim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📌 Featured Projects
+
+**[Brazilian E-Commerce Database Pipeline](https://github.com/Esha-Rahim/olist-ecommerce-analytics)**
+Designed a 9-table normalized MySQL schema from 100,000+ raw transactional records, with SQL-based RFM segmentation, cohort analysis, and delivery-risk flagging, visualized in Python.
+
+**[Pakistan E-Commerce RFM & Churn Engine](https://github.com/Esha-Rahim/Pakistan-Ecommerce-Insights)**
+Six-table normalized MySQL schema built on Pakistani e-commerce data, with RFM segmentation and churn-risk logic, visualized in Python.
+
+**[Financial Time Series Analysis](https://github.com/Esha-Rahim/financial-time-series-analysis)**
+Analyzed 5 years of market data across AAPL, NVDA, BTC-USD, GLD, and SPY — Sharpe ratio, max drawdown, and cross-asset risk correlations, with documented methodology for reproducibility.
+
+**[Supply Chain Analytics](https://github.com/Esha-Rahim/supply-chain-analytics)**
+End-to-end EDA on 180,000+ supply chain records using Pandas and Seaborn, identifying delivery trends, outliers, and operational bottlenecks.
+
+## 📜 Certifications
+
+- [Mathematics for Machine Learning and Data Science](https://coursera.org/verify/specialization/H64JJPZUEPMI) — Specialization, Serrano Academy / Coursera (Dec 2025)
+- [Prompt Engineering](https://coursera.org/verify/specialization/l3U1IM8QN84B) — Specialization, Vanderbilt University / Coursera (Dec 2025)
+- [Python for Data Science, AI & Development](https://coursera.org/verify/TSZYDIE5WM01) — IBM / Coursera (Aug 2025)
+- [Python Basics](https://coursera.org/verify/JK7NGYWCTU2Y) — University of Michigan / Coursera (Jul 2025)
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-rahim-7673163ab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esharahim30@gmail.com)
+
 
